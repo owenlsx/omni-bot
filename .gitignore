@@ -1,0 +1,24 @@
+# KiCad autosave, lock, and backup files
+\#auto_saved_files#
+_autosave-*
+~*.lck
+*~
+*.bak
+*.bck
+*.tmp
+*-backups/
+*-save.pro
+*-save.kicad_pcb
+*.kicad_prl
+
+# KiCad caches
+fp-info-cache
+
+# Generated outputs
+*.net
+*.dsn
+*.ses
+
+# OS junk
+.DS_Store
+Thumbs.db
